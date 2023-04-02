@@ -1,0 +1,22 @@
+section {
+  height: 500px;
+background-color:whitesmoke;
+border: solid black 1px;
+}
+
+.hero {
+  background-color:#2c1d25;
+  height: 100vh;
+  color: white;
+  font: size 40px; ;
+}
+
+.footer {
+  height: 500px;
+  background-color: black ;
+}
+
+nav {
+  display: flex;
+}
+
